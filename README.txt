@@ -1,6 +1,15 @@
-HIMARI AI Diary ホームページ
+HIMARI_GITHUB_READY
 
-1. index.html をダブルクリックすると、パソコンのブラウザで確認できます。
-2. ThreadsやInstagramのリンクを入れる場合は、index.html 内の @himari_jp_ai 周辺にリンクを追加してください。
-3. 無料公開は GitHub Pages、Netlify、Cloudflare Pages などが使えます。
-4. 写真を変更する場合は assets フォルダ内の画像を差し替えてください。
+GitHubへアップロードするもの:
+- index.html
+- style.css
+- hero.jpg
+- tokyo.jpg
+- train.jpg
+- summer.jpg
+- action.jpg
+
+すべて同じ場所（リポジトリの一番上）に置いてください。
+フォルダ分けは不要です。
+
+更新後は数分待ち、Chromeで Ctrl + F5 を押してください。
